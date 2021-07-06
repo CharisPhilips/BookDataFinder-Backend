@@ -1,0 +1,2270 @@
+{
+  "category":[
+    {
+      "name": "Mechanical Component",
+      "category": [
+        {
+          "name": "Fasteners",
+          "category": [
+            {
+              "name": "Anchors"
+            },
+            {
+              "name": "Bushes"
+            },
+            {
+              "name": "Collar"
+            },
+            {
+              "name": "Fork Joint"
+            },
+            {
+              "name": "Nails"
+            },
+            {
+              "name": "Nuts",
+              "category": [
+                {
+                  "name": "Acorn nuts"
+                },
+                {
+                  "name": "Clinch nuts"
+                },
+                {
+                  "name": "Clip-on nuts (Sheet metal or speed nuts)"
+                },
+                {
+                  "name": "Coupling / Sleeve"
+                },
+                {
+                  "name": "Flange nuts"
+                },
+                {
+                  "name": "Hex nuts"
+                },
+                {
+                  "name": "Insert nuts"
+                },
+                {
+                  "name": "Knurled nuts"
+                },
+                {
+                  "name": "Locknuts"
+                },
+                {
+                  "name": "Slotted nuts"
+                },
+                {
+                  "name": "Square nuts"
+                },
+                {
+                  "name": "T-nuts"
+                },
+                {
+                  "name": "Weld nuts"
+                },
+                {
+                  "name": "Wing nuts"
+                },
+                {
+                  "name": "Various nuts"
+                }
+              ]
+            },
+            {
+              "name": "Pins",
+              "category": [
+                {
+                  "name": "Clevis pins"
+                },
+                {
+                  "name": "Cotter or split pins"
+                },
+                {
+                  "name": "Dowel pins"
+                },
+                {
+                  "name": "Grooved pins"
+                },
+                {
+                  "name": "Quick release pins"
+                },
+                {
+                  "name": "Spring pins"
+                }, 
+                {
+                  "name": "Taper pins"
+                }
+              ]
+            },
+            {
+              "name": "Plugs",
+              "category": [
+                {
+                  "name": "Push-in plugs"
+                },
+                {
+                  "name": "Rectangular plugs"
+                },
+                {
+                  "name": "Round plugs"
+                },
+                {
+                  "name": "Square plugs"
+                },
+                {
+                  "name": "Threaded plugs"
+                },
+                {
+                  "name": "Various nuts"
+                }
+              ]
+            },
+            {
+              "name": "Retaining magnets",
+              "category": [
+                {
+                  "name": "Flexible retaining magnets"
+                },
+                {
+                  "name": "Round retaining magnets"
+                },
+                {
+                  "name": "Rectangular retaining magnets"
+                },
+                {
+                  "name": "U retaining magnets"
+                }
+              ]
+            },
+            {
+              "name": "Retaining rings", 
+              "category": [
+                {
+                  "name": "External retaining rings"
+                },
+                {
+                  "name": "Internal retaining rings"
+                }
+              ]
+            },
+            {
+              "name": "Rivets",
+              "category": [
+                {
+                  "name": "Blind Rivets",
+                  "category": [
+                    {
+                      "name": "Brake lining / Clutch facing rivets"  
+                    },
+                    {
+                      "name": "Compression rivets" 
+                    },
+                    {
+                      "name": "Semi-tubular rivets"
+                    },
+                    {
+                      "name": "Snap rivets"
+                    },
+                    {
+                      "name": "Solid rivets"
+                    },
+                    {
+                      "name": "Tubular rivets"
+                    }
+                  ] 
+                }
+              ]
+            },
+            {
+              "name": "Screws and bolts", 
+              "category": [
+                {
+               		"name": "Anchor bolts"
+                },
+                {
+                  "name": "T-Bolts"
+                },
+                {
+                  "name": "U-Bolts"
+                },
+                {
+                  "name": "Hex head bolts"
+                },
+                {
+                  "name": "Cap screws",
+                  "category": [
+                    {
+                       "name": "Binding screws"  
+                    },
+                    {
+                      "name": "Button screws"  
+                    },
+                    {
+                      "name": "Countersunk or flat screws"  
+                    },
+                    {
+                      "name": "Cheese screws"  
+                    },
+                    {
+                      "name": "Fillister screws"  
+                    },
+                    {
+                      "name": "Hexagonal screws"  
+                    },
+                    {
+                      "name": "Knurled screws"  
+                    },
+                    {
+                      "name": "Mushroom or truss screws"  
+                    },
+                    {
+                      "name": "Oval or raised screws"  
+                    },
+                    {
+                      "name": "Pan screws"  
+                    },
+                    {
+                      "name": "Round screws"  
+                    },
+                    {
+                      "name": "Socket screws"  
+                    },
+                    {
+                      "name": "Square screws"  
+                    },
+                    {
+                      "name": "Washer screws"  
+                    },
+                    {
+                      "name": "Various screws"  
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Spacers"
+            },
+            {
+              "name": "Screw locking"
+            },
+            {
+              "name": "Stop rings"
+            },
+            {
+              "name": "Studs",
+              "category": [
+                {
+                  "name": "Double ended studs"  
+                },
+                {
+                  "name": "Full threaded studs"  
+                },
+                {
+                  "name": "Full threaded studs"  
+                },
+                {
+                  "name": "Non-threaded studs"  
+                },
+                {
+                  "name": "One end threaded studs"  
+                },
+                {
+                  "name": "Studs Accessories"
+                }
+              ]
+            },
+            {
+              "name": "Wire thread inserts"
+            },
+            {
+              "name": "Washers",
+              "category": [
+                {
+               		"name": "Countesunk washers"
+                },
+                {
+                  "name": "Fender washers"
+                },
+                {
+                  "name": "Plain or Flat washers"
+                },
+                {
+                  "name": "Lock washers",
+                  "category": [
+                    {
+                       "name": "Safety lock washers"
+                    }, 
+                    {
+                      "name": "Split lock washers"
+                    }
+                  ]
+                },
+                {
+                  "name": "Sealing washers"
+                },
+                {
+                  "name": "Spring washers",
+                  "category": [
+                    {
+                       "name": "Square washers"  
+                    },
+                    {
+                      "name": "Slotted washers"
+                    },
+                    {
+                      "name": "Tab washers"
+                    },
+                    {
+                      "name": "Taper washers"
+                    },
+                    {
+                      "name": "Anti-loss washers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Threaded rods",
+              "category": [
+                {
+                   "name": "Threaded rods"
+                },
+                {
+                  "name": "Shafts with threaded rods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bearings",
+          "category": [
+            {
+               "name": "Bearings (ball, roller, needle, etc.)",
+               "category": [
+                {
+                  "name": "Ball Bearings",
+                  "category": [
+                    {
+                      "name": "Angular contact ball bearings"
+                    },
+                    {
+                      "name": "Deep groove ball bearings"
+                    },
+                    {
+                      "name": "Four point contact balls bearings"
+                    },
+                    {
+                      "name": "Radial insert ball bearings"
+                    },
+                    {
+                      "name": "Self aligning ball bearings"
+                    },
+                    {
+                      "name": "Spindle ball bearings"
+                    }
+                  ]
+                },
+                {
+                  "name": "Roller bearings",
+                  "category": [
+                    {
+                       "name": "Angular contact roller bearings"
+                    },
+                    {
+                      "name": "Cylindrical roller bearings"
+                    },
+                    {
+                      "name": "Spherical roller bearings"
+                    },
+                    {
+                      "name": "Tapered roller bearings"
+                    }
+                  ]
+                },
+                {
+                  "name": "Needle bearings"
+                },
+                {
+                  "name": "Combined bearings"
+                },
+                {
+                  "name": "Rotary table bearings"
+                }, 
+                {
+                  "name": "Slewing rings"
+                },
+                {
+                  "name": "Rod ends"
+                },
+                {
+                  "name": "Cam rollers"
+                },
+                {
+                  "name": "Thrust bearings"
+                },
+                {
+                  "name": "Bearings accessories",
+                  "category": [
+                    {
+                        "name": "Bearings accessories, lock nuts"
+                    },
+                    {
+                      "name": "Bearings accessories, profiles"
+                    },
+                    {
+                      "name": "Bearings accessories, roller clutches"
+                    },
+                    {
+                      "name": "Bearing accessories, rolling elements",
+                      "category": [
+                        {
+                          "name": "Bearings accessories, balls"
+                        },
+                        {
+                          "name": "Bearings accessories, rollers"
+                        },
+                        {
+                          "name": "Bearings accessories, needles"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Bearings accessories, sealing"
+                    },
+                    {
+                      "name": "Bearings accessories, sleeves"
+                    },
+                    {
+                      "name": "Bearings accessories, tolerance rings"
+                    },
+                    {
+                      "name": "Bearings accessories, washers"
+                    },
+                    {
+                      "name": "Bearing accessories, various"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bearing blocks",
+              "category": [
+                {
+                  "name": "Flanged block bearings"
+                },
+                {
+                  "name": "Pillow block bearings"
+                },
+                {
+                  "name": "Take-up bearings"
+                },
+                {
+                  "name": "Bearings blocks accessories"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Brakes, Clutches and Couplings",
+          "category": [
+            {
+              "name": "Assemblers",
+              "category": [
+                {
+               		"name": "Expandable sleeves"
+                },
+                {
+                  "name": "Shrink discs"
+                }
+              ]
+            },
+            {
+              "name": "Backstops"
+            },
+            {
+              "name": "Brakes",
+              "category": [
+                {
+                  "name": "Electrical brakes",
+                  "category": [
+                    {
+                      "name": "Plugging or reverse currrent electrical brakes"
+                    },
+                    {
+                      "name": "Rheostatic or dynamic electrical brakes"
+                    }
+                  ]
+                },
+                {
+                  "name": "Mechanical brakes", 
+                  "category": [
+                    {
+                      "name": "Electromagnetic brakes",
+                      "category": [
+                        {
+                           "name": "Electromagnetic disc brakes"
+                        },
+                        {
+                          "name": "Electromagnetic drum brakes"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Hand - operated brakes",
+                      "category": [
+                        {
+                           "name": "Hand-operated disc brakes"
+                        },
+                        {
+                          "name": "Hand-operated drum brakes"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Hydraulic brakes",
+                      "category": [
+                        {
+                           "name": "Hydraulic disc brakes"
+                        },
+                        {
+                          "name": "Hydraulic drum brakes"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pneumatic brakes",
+                      "category": [
+                        {
+                           "name": "Pneumatic disc brakes"
+                        },
+                        {
+                          "name": "Pneumatic drum brakes"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Clutches", 
+              "category": [
+                {
+               		"name": "Electrical clutches"
+                },
+                {
+                  "name": "Mechanical clutches",
+                  "category": [
+                    {
+                       "name": "Pneumatic clutches"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Torque limiters",
+              "category": [
+                {
+               		"name": "Ball torque limiters"
+                },
+                {
+                  "name": "Friction torque limiters"
+                },
+                {
+                  "name": "Roller torque limiters"
+                }
+              ]
+            },
+            {
+              "name": "Combined clutch and brake units",
+              "category": [
+                {
+               		"name": "Pneumatic combined clutch and brake units"
+                }
+              ]
+            },
+            {
+              "name": "Couplings",
+              "category": [
+                {
+               		"name": "Elastic couplings"
+                },
+                {
+                  "name": "Flexible couplings"
+                },
+                {
+                  "name": "Rigid couplings"
+                },
+                {
+                  "name": "Universal joint couplings"
+                },
+                {
+                  "name": "Various couplings"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Linear, and rotary motion",
+          "category": [
+            {
+              "name": "Ball crews",
+              "category": [
+                {
+                  "name": "Ball screws systems"
+                },
+                {
+                  "name": "Ball screws accessories"
+                }
+              ]
+            },
+            {
+              "name": "Linear actuators (modules)",
+              "category": [
+                {
+                  "name": "Linear actuators system (modules)"
+                },
+                {
+                  "name": "Linear actuators systems (modules) accessories"
+                }
+              ]
+
+            },
+            {
+              "name": "Linear motion guides",
+              "category": [
+                {
+                  "name": "Linear ball guides",
+                  "category": [
+                    {
+                      "name": "Slides for linear ball guides"
+                    },
+                    {
+                      "name": "Rails for linear ball guides"
+                    },
+                    {
+                      "name": "Linear ball guides (systems)"
+                    },
+                    {
+                      "name": "Linear ball guides accessories"
+                    }
+                  ]
+                },
+                {
+                  "name": "Linear on shaft guides",
+                  "category": [
+                    {
+                      "name": "Slides for linear on shaft guides"
+                    },
+                    {
+                      "name": "Ball bearing sleeves"
+                    },
+                    {
+                      "name": "Shafts and shaft supports fo linear on shaft guides"
+                    },
+                    {
+                      "name": "Linear on shaft guides (systems)"
+                    },
+                    {
+                      "name": "Linear on shaft guides accessories"
+                    }
+                  ]
+                },
+                {
+                  "name": "Linear roller guides",
+                  "category": [
+                    {
+                      "name": "Slides for linear roller guides"
+                    },
+                    {
+                      "name": "Rails for linear roller guides"
+                    },
+                    {
+                      "name": "Linear roller guides (systems)"
+                    },
+                    {
+                      "name": "Linear roller guides accessories"
+                    }
+                  ]
+                },
+                {
+                  "name": "Linear track roller guides",
+                  "category": [
+                    {
+                      "name": "Linear plain guides"
+                    },
+                    {
+                      "name": "Linear telescopic slides"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Linear tables"
+            },
+            {
+              "name": "Manual positioning tables"
+            },
+            {
+              "name": "Planetary roller screws"
+            },
+            {
+              "name": "Rotary modules"  
+            },
+            {
+              "name": "Screw jacks",
+              "category": [
+                {
+                  "name": "Screw jacks systems"
+                },
+                {
+                  "name": "Screw jacks systems accessories"
+                }
+              ]
+            },
+            {
+              "name": "Trapezoidal screws"
+            }
+          ]
+        },
+        {
+          "name": "Power, transmission",
+          "category": [
+            {
+              "name": "Shafts"
+            },
+            {
+              "name": "Coupling shafts"
+            },
+            {
+              "name": "Keys",
+              "category": [
+                {
+                  "name": "Key stock"
+                },
+                {
+                  "name": "Machine keys"
+                }
+              ]
+            },
+            {
+              "name": "Splines",
+              "category": [
+                {
+                  "name": "Spline shafts"
+                },
+                {
+                  "name": "Spline sleeves"
+                }
+              ]
+            },
+            {
+              "name": "Flexible drive transmission",
+              "category": [
+                {
+                  "name": "Belt drives and their components",
+                  "category": [
+                    {
+                      "name": "Belts",
+                      "category": [
+                        {
+                          "name": "Toothed belts"
+                        },
+                        {
+                          "name": "V belts"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pulleys"
+                    },
+                    {
+                      "name": "Belt drives accessories"
+                    }
+                  ]
+                },
+                {
+                  "name": "Chain drives and their components",
+                  "category": [
+                    {
+                      "name": "Sprocket wheels"
+                    },
+                    {
+                      "name": "Chains"
+                    },
+                    {
+                      "name": "Chain drives accessories"
+                    }
+                  ]
+                },
+                {
+                  "name": "Thrust bearings"
+                },
+                {
+                  "name": "Bearings accessories",
+                  "category": [
+                    {
+                        "name": "Bearings accessories, lock nuts"
+                    },
+                    {
+                      "name": "Bearings accessories, profiles"
+                    },
+                    {
+                      "name": "Bearings accessories, roller clutches"
+                    },
+                    {
+                      "name": "Bearing accessories, rolling elements",
+                      "category": [
+                        {
+                          "name": "Bearings accessories, balls"
+                        },
+                        {
+                          "name": "Bearings accessories, rollers"
+                        },
+                        {
+                          "name": "Bearings accessories, needles"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Bearings accessories, sealing"
+                    },
+                    {
+                      "name": "Bearings accessories, sleeves"
+                    },
+                    {
+                      "name": "Bearings accessories, tolerance rings"
+                    },
+                    {
+                      "name": "Bearings accessories, washers"
+                    },
+                    {
+                      "name": "Bearing accessories, various"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gears",
+              "category": [
+                {
+                  "name": "Racks"
+                },
+                {
+                  "name": "Spur gears"
+                },
+                {
+                  "name": "Helical gears"
+                },
+                {
+                  "name": "Bevel gears"
+                },
+                {
+                  "name": "Spiral bevel gears"
+                },
+                {
+                  "name": "Internal gears"
+                },
+                {
+                  "name": "Spiroid gears"
+                },
+                {
+                  "name": "Worm gears"
+                }
+              ]
+            },
+            {
+              "name": "Angular gears, gearboxes",
+              "category": [
+                {
+                  "name": "Spur gearboxes"
+                },
+                {
+                  "name": "Bevel gearboxes"
+                },
+                {
+                  "name": "Helical gearboxes"
+                },
+                {
+                  "name": "Planetary gearboxes"
+                },
+                {
+                  "name": "Worm gearboxes"
+                },
+                {
+                  "name": "Various gearboxes"
+                },
+                {
+                  "name": "Shaft angular gears"
+                },
+                {
+                  "name": "Adaptators, coupling arms, accessoiries"
+                }
+              ]
+            },
+            {
+              "name": "Differenttials"
+            }
+          ]
+        },
+        {
+          "name": "Casters, wheels, handling trolleys",
+          "category": [
+            {
+              "name": "Wheels and casters",
+              "category": [
+                {
+                  "name": "Bands and tires"
+                },
+                {
+                  "name": "Casters"
+                },
+                {
+                  "name": "Wheels"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ArtNr_Corrected"
+        },
+        {
+          "name": "Band"
+        },
+        {
+          "name": "Band, thickness (mm)"
+
+        },
+        {
+          "name": "Mass"
+
+        },
+        {
+          "name": "Rim"
+
+        },
+        {
+          "name": "Series"
+
+        },
+        {
+          "name": "Wheel, - Ø A x width B (mm)"
+
+        },
+        {
+          "name": "Wheel, type"
+
+        },
+        {
+          "name": "Product_type"
+
+        },
+        {
+          "name": "Jig, and fixture construction",
+          "category": [
+            {
+              "name": "Bushes"
+            },
+            {
+              "name": "Clamping",
+              "category": [
+                {
+                  "name": "Drill jig elements"
+                },
+                {
+                  "name": "Locating pins"
+                }
+              ]
+            },
+            {
+              "name": "Plungers",
+              "category": [
+                {
+                  "name": "Indexing plungers"
+                },
+                {
+                  "name": "Spring plungers"
+                },
+                {
+                  "name": "Various plungers"
+                },
+                {
+                  "name": "Plungers accessories"
+                }
+              ]
+            },
+            {
+              "name": "Support elements",
+              "category": [
+                {
+                  "name": "Angles bases"
+                },
+                {
+                  "name": "Blocks"
+                }
+              ]
+            },
+            {
+              "name": "Leveling mount, damper mount",
+              "category": [
+                {
+                  "name": "Plates"
+                },
+                {
+                  "name": "Rest buttons"
+                },
+                {
+                  "name": "Self-aligning pads"
+                },
+                {
+                  "name": "Stops"
+                },
+                {
+                  "name": "Thrust screws"
+                }
+              ]
+            },
+            {
+              "name": "Tenons"
+            }
+          ]
+        },
+        {
+          "name": "Handles",
+          "category": [
+            {
+              "name": "Adjustable / Indexing handles"
+            },
+            {
+              "name": "Clamping levers"
+            },
+            {
+              "name": "Clamping leves"
+            },
+            {
+              "name": "Crank handles"
+            },
+            {
+              "name": "Handwheels"
+            },
+            {
+              "name": "Position indicators (with or without handle)"
+            },
+            {
+              "name": "Operating handles"
+            },
+            {
+              "name": "Knobs",
+              "category": [
+                {
+                  "name": "Belt drives and their components",
+                  "category": [
+                    {
+                      "name": "Balls knobs"
+                    },
+                    {
+                      "name": "Knurled knobs"
+                    },
+                    {
+                      "name": "Stars knobs"
+                    },
+                    {
+                      "name": "Wings knobs"
+                    },
+                    {
+                      "name": "Various knobs"
+                    }
+                  ]
+                }
+              ]
+
+            },
+            {
+              "name": "Lever handles"
+            },
+            {
+              "name": "Pull handles",
+              "category": [
+                {
+                  "name": "Fold-down pull handles"
+                },
+                {
+                  "name": "Recessed pull handles"
+                },
+                {
+                  "name": "Wall pull handles"
+                }
+              ]
+            },
+            {
+              "name": "Tee handles"
+            },
+            {
+              "name": "Various handles"
+            },
+            {
+              "name": "Handles accessories"
+            }
+          ]
+        },
+        {
+          "name": "Hinges, Latches & Locks",
+          "category": [
+            {
+              "name": "Latches",
+              "category": [
+                {
+                  "name": "Cam latches"
+                },
+                {
+                  "name": "Compression latches"
+                },
+                {
+                  "name": "Slam latches"
+                },
+                {
+                  "name": "Spring loaded latches"
+                },
+                {
+                  "name": "Toggle latches",
+                  "category": [
+                    {
+                      "name": "Adjustable toggle latches"
+                    },
+                    {
+                      "name": "Lockable toggle latches"
+                    },
+                    {
+                      "name": "Padlockable toggle latches"
+                    },
+                    {
+                      "name": "Standard toggle latches"
+                    },
+                    {
+                      "name": "Rotary toggle latches"
+                    },
+                    {
+                      "name": "Spring loaded toggle latches"
+                    },
+                    {
+                      "name": "Various toggle latches"
+                    },
+                    {
+                      "name": "Toggle latches accessories"
+                    }
+                  ]
+                },
+                {
+                  "name": "Various latches"
+                },
+                {
+                  "name": "Locks",
+                  "category": [
+                    {
+                      "name": "Cam locks"
+                    },
+                    {
+                      "name": "Door locks"
+                    },
+                    {
+                      "name": "Locks with emergency release"
+                    },
+                    {
+                      "name": "Magnetic locks"
+                    },
+                    {
+                      "name": "Various locks"
+                    }
+                  ]
+                },
+                {
+                  "name": "Hinges",
+                  "category": [
+                    {
+                      "name": "Butt hinges"
+                    },
+                    {
+                      "name": "Concealed hinges"
+                    },
+                    {
+                      "name": "Friction hinges"
+                    },
+                    {
+                      "name": "Lift - off hinges"
+                    },
+                    {
+                      "name": "Plastic hinges"
+                    },
+                    {
+                      "name": "Spring hinges"
+                    },
+                    {
+                      "name": "Stop hinges"
+                    },
+                    {
+                      "name": "Various hinges"
+                    },
+                    {
+                      "name": "Weld-on hinges"
+                    },
+                    {
+                      "name": "Hinges with safety switch"
+                    }
+                  ]
+                },
+                {
+                  "name": "Lid & Support stays"
+                }
+              ]
+            }
+          ]
+
+        },
+        {
+          "name": "Sealing",
+          "category": [
+            {
+              "name": "Boots, Bellows seals"
+            },
+            {
+              "name": "Protection"
+            },
+            {
+              "name": "Gaskets"
+            },
+            {
+              "name": "O-rings"
+            },
+            {
+              "name": "Piston and rod seals",
+              "category": [
+                {
+                  "name": "Buffer seals"
+                },
+                {
+                  "name": "Cushioning seals"
+                },
+                {
+                  "name": "Piston seals"
+                },
+                {
+                  "name": "Rod seals"
+                },
+                {
+                  "name": "Rod and piston seals (seals for both applications)"
+                },
+                {
+                  "name": "Wear rings / Guide ring"
+                },
+                {
+                  "name": "Blocks"
+                }
+              ]
+            },
+            {
+              "name": "Rotary seals",
+              "category": [
+                {
+                  "name": "Cassetts seals"
+                },
+                {
+                  "name": "Composite seals"
+                },
+                {
+                  "name": "End covers seals"
+                },
+                {
+                  "name": "Lip seals"
+                },
+                {
+                  "name": "Mechanical face seals"
+                },
+                {
+                  "name": "V-rings seals"
+                }
+              ]
+            },
+            {
+              "name": "Static seals",
+              "category": [
+                {
+                  "name": "Back-up rings"
+                },
+                {
+                  "name": "Bonded seals"
+                },
+                {
+                  "name": "Quad rings seals"
+                },
+                {
+                  "name": "Rectangle seals"
+                },
+                {
+                  "name": "Square seals"
+                }
+              ]
+            },
+            {
+              "name": "U seals"
+            },
+            {
+              "name": "Wear rings"
+            },
+            {
+              "name": "Wipers"
+            }
+          ]
+
+        },
+        {
+          "name": "Shock, / Vribration absorbers, springs",
+          "category": [
+            {
+              "name": "Shock / Virbration absorbers",
+              "category": [
+                {
+                  "name": "Cushions"
+                },
+                {
+                  "name": "Gas springs",
+                  "category": [
+                    {
+                      "name": "Gas springs"
+                    },
+                    {
+                      "name": "Gas springs accessories"
+                    }
+                  ]
+                },
+                {
+                  "name": "Hydraulic snubbers"
+                },
+                {
+                  "name": "Leaf springs"
+                },
+                {
+                  "name": "Mats"
+                },
+                {
+                  "name": "Vibration dampers"
+                },
+                {
+                  "name": "Rotary dampers"
+                }
+              ]
+            },
+            {
+              "name": "Springs",
+              "category": [
+                {
+                  "name": "Compression springs"
+                },
+                {
+                  "name": "Conical springs"
+                },
+                {
+                  "name": "Extension springs"
+                },
+                {
+                  "name": "Torsion springs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Solenoids, Electromagnets",
+          "category": [
+            {
+              "name": "Electromagnetic bolts"
+            },
+            {
+              "name": "Linear solenoids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Manufacturing engineering",
+        "category": [	
+        {
+          "name": "Assembling profiles", 
+          "category": [	
+            {
+              "name": "Profiles"
+            },
+            {
+              "name": "Assembling profiles accessories",
+              "category": [	
+                {
+                  "name": "Assembling profiles brackets"
+                },
+                {
+                  "name": "Assembling profiles castors"
+                },
+                {
+                  "name": "Assembling profiles connecting clamps"
+                },
+                {
+                  "name": "Assembling profiles end caps"
+                },
+                {
+                  "name": "Assembling profiles fasteners"
+                },
+                {
+                  "name": "Assembling profiles feet"
+                },
+                {
+                  "name": "Assembling profiles handles"
+                },
+                {
+                  "name": "Assembling profiles hinges"
+                },
+                {
+                  "name": "Assembling profiles seals"
+                },
+                {
+                  "name": "Assembling profiles accessories, various"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Automation equipment",
+          "category": [	
+            {
+              "name": "Human machine interface (HMI)",
+              "category": [	
+                {
+                  "name": "Logic modules"
+                },
+                {
+                  "name": "Motion controllers"
+                }
+              ]
+            },
+            {
+              "name": "Programmable logic controllers (PLC)",
+              "category": [	
+                {
+                  "name": "Expansion modules for programmable logic controllers"
+                },
+                {
+                  "name": "I/O Modules for programmable logic controllers (PLC)"
+                },
+                {
+                  "name": "Network modules for programmable logic controllers (PLC)"
+                },
+                {
+                  "name": "Accessories for programmable logic controllers (PLC)"
+                },
+                {
+                  "name": "Roller bearings"
+                }
+              ]
+            },
+            {
+              "name": "Robots",
+              "category": [	
+                {
+                  "name": "Aerial robots"
+                },
+                {
+                  "name": "Stationary robots"
+                }
+              ]
+            },
+            {
+              "name": "Machine Guarding & Safety"
+            },
+            {
+              "name": "Signaling and warning devices",
+              "category": [	
+                {
+                  "name": "Indicators"
+                },
+                {
+                  "name": "Sounders"
+                },
+                {
+                  "name": "Warning lights"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Controlled environments",
+          "category": [	
+            {
+              "name": "Filters for controlled environments"
+            },
+            {
+              "name": "Ionisers fo controlled environments"
+            }
+          ]
+        },
+        {
+          "name": "Information technology",
+          "category": [	
+            {
+              "name": "Computer, periphals and accessories",
+              "category": [	
+                {
+                  "name": "Data storage devices",
+                  "category": [	
+                    {
+                      "name": "Memory cards"
+                    },
+                    {
+                      "name": "USB drivers"
+                    },
+                    {
+                      "name": "Data storage device accessories"
+                    }
+                  ]
+                },
+                {
+                  "name": "Displays"
+                },
+                {
+                  "name": "Industrial PC"
+                },
+                {
+                  "name": "Printers and plotters"
+                },
+                {
+                  "name": "Computers accessories"
+                }
+              ]
+        
+            },
+            {
+              "name": "Softwares and general drawing for software (symbols, computer dummies)",
+              "category": [	
+                {
+                  "name": "General drawings (symbols, computer dummies)",
+                  "category": [	
+                    {
+                      "name": "Computer dummies"
+                    },
+                    {
+                      "name": "Architecture"
+                    },
+                    {
+                      "name": "Electrical symbols"
+                    },
+                    {
+                      "name": "Graphical symbols",
+                      "category": [	
+                        {
+                          "name": "Numerals"
+                        },
+                        {
+                          "name": "Letters"
+                        },
+                        {
+                          "name": "3D games"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Models for 3D printers"
+                    },
+                    {
+                      "name": "Pneumatic and hydraulic symbols"
+                    }
+                  ]
+            
+                },
+                {
+                  "name": "Software",
+                  "category": [	
+                    {
+                      "name": "Acquisition analysis of data softwares"
+                    },
+                    {
+                      "name": "Engineering software"
+                    },
+                    {
+                      "name": "Imaging softwares"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lubrication",
+          "category": [	
+            {
+              "name": "Lubricators, oilers"
+            },
+            {
+              "name": "Oils level sight"
+            },
+            {
+              "name": "Lubrication accessories"
+            }
+          ]    
+        },
+        {
+          "name": "Machines & Tools",
+          "category": [	
+            {
+              "name": "Machining / molding / stamping",
+              "category": [	
+                {
+                  "name": "Drilling"
+                },
+                {
+                  "name": "Elements of friction"
+                },
+                {
+                  "name": "Milling"
+                },
+                {
+                  "name": "Molding",
+                  "category": [	
+                    {
+                      "name": "Mold bases"
+                    },
+                    {
+                      "name": "Centring elements for mold bases"
+                    },
+                    {
+                      "name": "Guiding elements for mold bases"
+                    },
+                    {
+                      "name": "Ejecting elements for mold bases"
+                    },
+                    {
+                      "name": "Hot runners fo mold bases", 
+                      "category": [	
+                        {
+                          "name": "Hot runners nozzles"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Injecting elements"
+                    },
+                    {
+                      "name": "Mold opening system"
+                    },
+                    {
+                      "name": "Regulation elements"
+                    },
+                    {
+                      "name": "Mold based accessories"
+                    },
+                    {
+                      "name": "Pressing",
+                      "category": [	
+                        {
+                          "name": "Pressing die springs"
+                        },
+                        {
+                          "name": "Pressing guides"
+                        },
+                        {
+                          "name": "Pressing machines"
+                        },
+                        {
+                          "name": "Pressing matrices"
+                        },
+                        {
+                          "name": "Pressing punches"
+                        },
+                        {
+                          "name": "Pressing retainers"
+                        },
+                        {
+                          "name": "Pressing miscellaneous"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Mandrels"
+                    },
+                    {
+                      "name": "Spindles"
+                    },
+                    {
+                      "name": "Machining/Molding/Stamping, miscellaneous"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Power tools",
+              "category": [	
+                {
+                  "name": "Drilling"
+                },
+                {
+                  "name": "Standers"
+                },
+                {
+                  "name": "Screwdriver"
+                },
+                {
+                  "name": "Power toos, others"
+                }
+              ]
+            },
+            {
+              "name": "Mechanical tools",
+              "category": [	
+                {
+                  "name": "Bits"
+                },
+                {
+                  "name": "Keys"
+                },
+                {
+                  "name": "Hammers"
+                },
+                {
+                  "name": "Ratchets and sockets"
+                },
+                {
+                  "name": "Riveting"
+                },
+                {
+                  "name": "Screwdrivers"
+                },
+                {
+                  "name": "Torque control"
+                },
+                {
+                  "name": "Vice"
+                },
+                {
+                  "name": "Wrenches"
+                },
+                {
+                  "name": "Mechanical tools, others"
+                }
+              ]
+            },
+            {
+              "name": "Pneumatics tools",
+              "category": [	
+                {
+                  "name": "Blowguns"
+                },
+                {
+                  "name": "Hot-air tools"
+                },
+                {
+                  "name": "Riveting"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Materials (bars, beams, tubes, etc.)",
+        "category": [	
+        {
+          "name": "Angles"
+        },
+        {
+          "name": "Bars",
+          "category": [	
+            {
+              "name": "Flat bars"
+            },
+            {
+              "name": "Round"
+            },
+            {
+              "name": "Square"
+            }
+          ]
+        },
+        {
+          "name": "I Profiles"
+        },
+        {
+          "name": "U Profiles"
+        },
+        {
+          "name": "T Profiles"
+        },
+        {
+          "name": "Pipes"
+        },
+        {
+          "name": "Plates"
+        },
+        {
+          "name": "Tubes",
+          "category": [	
+            {
+              "name": "Square tubes"
+            },
+            {
+              "name": "Rectangular tubes"
+            },
+            {
+              "name": "Round tubes"
+            }
+          ]
+    
+        }
+      ]
+    },
+    {
+      "name": "Materials (bars, beams, tubes, etc.)  Refine Description",
+      "category": [
+        {
+          "name": "Type of Content",
+          "category": [	
+            {
+              "name": "PDF File"
+            }
+          ]
+        },
+        {
+          "name": "Suppliers"
+        },
+        {
+          "name": "Standards organizations"
+        },
+        {
+          "name": "ArtNr_Corrected"
+        },
+        {
+          "name": "L"
+        },
+        {
+          "name": "Length"
+        },
+        {
+          "name": "Mass"
+        },
+        {
+          "name": "Material"
+        },
+        {
+          "name": "Omniclass number"
+        },
+        {
+          "name": "Prodcut_type"
+        }
+      ]
+    },
+    {
+      "name": "Material handling and lifting equipment",
+      "category": [	
+        {
+          "name": "Lifting equipment",
+          "category": [	
+            {
+              "name": "Lifting systems",
+              "category": [	
+                {
+                  "name": "Balencers"
+                },
+                {
+                  "name": "Cranes"
+                },
+                {
+                  "name": "Hoists, Winches"
+                },
+                {
+                  "name": "Jacks"
+                },
+                {
+                  "name": "Lift tables"
+                },
+                {
+                  "name": "Suction lifters"
+                },
+                {
+                  "name": "Magnetic gripping"
+                },
+                {
+                  "name": "Trolleys"
+                }
+              ]
+            },
+            {
+              "name": "Components for lifting",
+              "category": [	
+                {
+                  "name": "Lifting chains"
+                },
+                {
+                  "name": "Lifting eyebolts"
+                },
+                {
+                  "name": "Lifting hooks"
+                },
+                {
+                  "name": "Lifting links"
+                },
+                {
+                  "name": "Lifting shackles"
+                },
+                {
+                  "name": "Lifting conical wedge sockets, lifting open wedge sockets"
+                },
+                {
+                  "name": "Lifting slings"
+                },
+                {
+                  "name": "Lifting straining screws"
+                },
+                {
+                  "name": "Lifting swivels"
+                },
+                {
+                  "name": "Lifting thimbles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Material handling (Conveyors systems, packageing…)",
+          "category": [	
+            {
+              "name": "Conveyors (systems)",
+              "category": [	
+                {
+                  "name": "Balls conveyors"
+                },
+                {
+                  "name": "Belt conveyors"
+                },
+                {
+                  "name": "Chain conveyors"
+                },
+                {
+                  "name": "Chain conveyors"
+                },
+                {
+                  "name": "Pneumaic conveyors"
+                },
+                {
+                  "name": "Roller conveyors"
+                },
+                {
+                  "name": "Screw conveyors"
+                },
+                {
+                  "name": "Skate wheel conveyors"
+                }
+              ]
+            },
+            {
+              "name": "Components for conveyors manipulation",
+              "category": [	
+                {
+                  "name": "Conveyors balls units"
+                },
+                {
+                  "name": "Conveyors drive units"
+                },
+                {
+                  "name": "Conveyors rollers"
+                },
+                {
+                  "name": "Conveyors wheels"
+                }
+              ]
+            },
+            {
+              "name": "Packaging equipment",
+              "category": [	
+                {
+                  "name": "Barrels, Drums, Canisters"
+                },
+                {
+                  "name": "Cases, Boxes, Crates"
+                },
+                {
+                  "name": "Packaging machinery"
+                }
+              ]
+            },
+            {
+              "name": "Storage equipment",
+              "category": [	
+                {
+                  "name": "Containers"
+                },
+                {
+                  "name": "Labelling"
+                },
+                {
+                  "name": "Shelves"
+                },
+                {
+                  "name": "Tanks"
+                },
+                {
+                  "name": "Work benches"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrical",
+        "category": [	
+        {
+          "name": "Cables and wires, cable management",
+          "category": [	
+            {
+              "name": "Cable management",
+              "category": [	
+                {
+                  "name": "Cable carries"
+                },
+                {
+                  "name": "Cable glands"
+                },
+                {
+                  "name": "Cable grommets"
+                },
+                {
+                  "name": "Cable raceways"
+                },
+                {
+                  "name": "Cable supports"
+                },
+                {
+                  "name": "Cable trays"
+                },
+                {
+                  "name": "Cord reel"
+                },
+                {
+                  "name": "Cables management accessories"
+                }
+              ]
+            },
+            {
+              "name": "Cable and wires"
+            }
+          ]
+        },
+        {
+          "name": "Connectors",
+          "category": [	
+            {
+              "name": "Circular connectors",
+              "category": [	
+                {
+                  "name": "Circular cordsets"
+                },
+                {
+                  "name": "DIN circular connectors"
+                },
+                {
+                  "name": "MIL Spec circular connectors"
+                },
+                {
+                  "name": "RJ45 circular connectors"
+                },
+                {
+                  "name": "Circular sockets and plugs"
+                }
+              ]
+            },
+            {
+              "name": "Circular connectors"
+            },
+            {
+              "name": "Lighting connectors"
+            },
+            {
+              "name": "Power connectors",
+              "category": [	
+                {
+                  "name": "Power adapters"
+                },
+                {
+                  "name": "Plugs & sockets power connectors"
+                },
+                {
+                  "name": "IEC power connectors"
+                },
+                {
+                  "name": "Power connectors accessories"
+                }
+              ]
+            },
+            {
+              "name": "Terminal Blocks & Strips",
+              "category": [	
+                {
+                  "name": "Terminal Blocks",
+                  "category": [	
+                    {
+                      "name": "DIN rail terminal blocks",
+                      "category": [	
+                        {
+                          "name": "DIN rail terminal blocks"
+                        },
+                        {
+                          "name": "Accessories for DIN rail terminal blocks"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Terminal Blocks",
+                      "category": [	
+                        {
+                          "name": "Terminal Blocks"
+                        },
+                        {
+                          "name": "Terminal blocks accessories"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Interfaces Modules"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Terminal & Splices"
+            }
+          ]
+        },
+        {
+          "name": "Enclosures",
+          "category": [	
+            {
+              "name": "Console enclosures",
+              "category": [	
+                {
+                  "name": "Expandable sleeves"
+                },
+                {
+                  "name": "Floor standing enclosures"
+                },
+                {
+                  "name": "Junction boxes"
+                },
+                {
+                  "name": "Plug - in units"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Electrical protection devices",
+          "category": [	
+            {
+              "name": "Circuit breaker",
+              "category": [	
+                {
+                  "name": "Air circuit breakers (ACB)"
+                },
+                {
+                  "name": "Arc Fault Circuit Interrupters (AFCI)"
+                },
+                {
+                  "name": "Dual Function Circuit Interruper"
+                },
+                {
+                  "name": "Earth leakage circuit breakers (ELCB)"
+                },
+                {
+                  "name": "Miniature circuit breakers (MCB)"
+                },
+                {
+                  "name": "Molded case circuit breakers (MCCB)"
+                },
+                {
+                  "name": "Residual-current breakers with over-current protection (RCBO)"
+                },
+                {
+                  "name": "Residual-current circuit breakers (RCCB)"
+                },
+                {
+                  "name": "Residual-current device (RCD)"
+                },
+                {
+                  "name": "Vacuum circuit breaker (VCB)"
+                },
+                {
+                  "name": "Circuit breakers accessories"
+                }
+              ]
+            },
+            {
+              "name": "Fuses & fuse holders",
+              "category": [	
+                {
+                  "name": "Fuses & fuse holders for automotive",
+                  "category": [	
+                    {
+                      "name": "Automotive fuses"
+                    }
+                  ]
+                },
+                {
+                  "name": "PCB fuses & fuse holders",
+                  "category": [	
+                    {
+                      "name": "PCB fuses"
+                    },
+                    {
+                      "name": "PCB fuse holders"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tag tuses & fuse holders",
+                  "category": [	
+                    {
+                      "name": "Tag fuses"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Insulators"
+            },
+            {
+              "name": "Surge protection device (SPD)"
+            }
+          ]
+        },
+        {
+          "name": "Fans"
+        }
+      ]
+    }
+  ]
+}
